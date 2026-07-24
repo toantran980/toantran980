@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 I'm Toan, a recent grad seeking to grow in tech, with a focus on Software Engineering and AI.
 
 I turn ideas into shipped projects, fast — solutions that solve real problems and help my daily life.
@@ -17,4 +17,4 @@ I've built over 60 repositories, though many remain private or are still in loca
 - I like skydiving but I'm afraid of heights
 - I love dogs
 - Hobbies: movies, music, gym, and building stuff
--->
+
