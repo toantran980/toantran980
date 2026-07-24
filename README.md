@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 
-I'm Toan, a recent grad seeking to grow in tech, with a focus on Software Engineering and AI.
+I'm Toan, seeking to grow in tech focus on Software Engineering and AI.
 
-I turn ideas into shipped projects, fast — solutions that solve real problems and help my daily life.
+I turn ideas into shipped projects, fast solutions that solve real problems and help my daily life.
 
 I've built over 60 repositories, though many remain private or are still in local development.
 
