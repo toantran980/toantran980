@@ -19,5 +19,5 @@ I've got bunch of pinned projects, but my current focus is the LLM Chart [LLM Po
 **Fun facts**:
 - I like skydiving but I'm afraid of heights
 - I love dogs
-- Hobbies: movies, music, gym, and building stuff
+- Hobbies: foods, movies, music, gym, and building stuff
 
