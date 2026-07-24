@@ -7,6 +7,9 @@ I turn ideas into shipped projects, fast — solutions that solve real problems 
 
 I've built over 60 repositories, though many remain private or are still in local development.
 
+I've got bunch of pinned projects, but my current focus is the LLM Chart [LLM Powered Chart Maker](https://github.com/toantran980/LLM-Chart-Maker).
+
+
 **My main tech stack**:
 - Languages: Python, Java, TypeScript, SQL
 - Frameworks: Spring Boot, React, Node, PyTorch, Flask
