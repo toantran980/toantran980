@@ -1,16 +1,20 @@
 ## Hi there 👋
 
 <!--
-**toantran980/toantran980** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Toan, a recent grad seeking to grow in tech, with a focus on Software Engineering and AI.
 
-Here are some ideas to get you started:
+I turn ideas into shipped projects, fast — solutions that solve real problems and help my daily life.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I've built over 60 repositories, though many remain private or are still in local development.
+
+**My main tech stack**:
+- Languages: Python, Java, TypeScript, SQL
+- Frameworks: Spring Boot, React, Node, PyTorch, Flask
+- Databases: PostgreSQL, MongoDB
+- Tools: Git, Docker, REST APIs, Azure
+
+**Fun facts**:
+- I like skydiving but I'm afraid of heights
+- I love dogs
+- Hobbies: movies, music, gym, and building stuff
 -->
