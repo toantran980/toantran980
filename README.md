@@ -7,7 +7,7 @@ I turn ideas into shipped projects, fast solutions that solve real problems and 
 
 I've built over 60 repositories, though many remain private or are still in local development.
 
-I've got bunch of pinned projects, but my current focus is the LLM Chart [LLM Powered Chart Maker](https://github.com/toantran980/LLM-Chart-Maker).
+I've got bunch of pinned projects, but my current focus is [LLM Powered Chart Maker](https://github.com/toantran980/LLM-Chart-Maker).
 
 
 **My main tech stack**:
