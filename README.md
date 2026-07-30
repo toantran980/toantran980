@@ -11,7 +11,7 @@ I've got bunch of pinned projects, but my current focus is [LLM Powered Chart Ma
 
 
 **My main tech stack**:
-- Languages: Python, Java, TypeScript, SQL
+- Languages: Python, C, C++, Java, TypeScript, SQL
 - Frameworks: Spring Boot, React, Node, PyTorch, Flask
 - Databases: PostgreSQL, MongoDB
 - Tools: Git, Docker, REST APIs, Azure
