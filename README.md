@@ -1,13 +1,16 @@
 ## Hi there 👋
 
+I'm Toan, an aspiring software engineer with a focus on AI.
 
-I'm Toan, seeking to grow in tech focus on Software Engineering and AI.
+I've built many repositories, though many of them remain private or are still in local development. I turn ideas into shipped projects, fast solutions that solve real problems and help my daily life.
 
-I turn ideas into shipped projects, fast solutions that solve real problems and help my daily life.
+Experienced in low-level systems programming, on-device machine learning, and full-stack development, ranging from real-time computer vision mobile apps to Linux IPC subsystems. 
 
-I've built many repositories, though many of them remain private or are still in local development.
 
-I've got bunch of pinned projects, but my current focus is [LLM Powered Chart Maker](https://github.com/toantran980/LLM-Chart-Maker).
+A fast, hands-on contributor eager to grow in an entry-level role, applying this range to new challenges in real hardware and software systems.
+
+
+I've got a bunch of pinned projects, but my current focus is [LLM Powered Chart Maker](https://github.com/toantran980/LLM-Chart-Maker).
 
 
 **My main tech stack**:
