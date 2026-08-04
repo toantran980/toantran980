@@ -5,7 +5,7 @@ I'm Toan, seeking to grow in tech focus on Software Engineering and AI.
 
 I turn ideas into shipped projects, fast solutions that solve real problems and help my daily life.
 
-I've built over 60 repositories, though many remain private or are still in local development.
+I've built many repositories, though many of them remain private or are still in local development.
 
 I've got bunch of pinned projects, but my current focus is [LLM Powered Chart Maker](https://github.com/toantran980/LLM-Chart-Maker).
 
