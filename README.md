@@ -22,5 +22,5 @@ I've got a bunch of pinned projects, but my current focus is [LLM Powered Chart 
 **Fun facts**:
 - I like skydiving but I'm afraid of heights
 - I love dogs
-- Hobbies: foods, movies, music, gym, and building stuff
+- Hobbies: food, movies, music, gym, and building stuff
 
