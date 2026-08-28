@@ -14,17 +14,17 @@ I've got a bunch of pinned projects, but my current focus is [LLM Powered Chart 
 
 
 **My main tech stack**:
-- Languages: Python, C++, Java, JavaScript, TypeScript, SQL, HTML, CSS
+- Languages: Python, Java, C++, JavaScript, TypeScript, SQL, HTML, CSS
 
-- Frameworks: Spring Boot, Node.js, Express.js, React.js, Flask
+Frameworks: Spring Boot, React.js, Node.js, Express.js, Flask
 
 - Databases: PostgreSQL, MongoDB, Redis
 
-- Testing: Pytest, Unittest, Mockito, JUnit, Selenium, Robot Framework
+- Testing: Pytest, JUnit, Mockito, Selenium
 
-- AI/LLM Tools: PyTorch, TensorFlow, Scikit-learn, Pandas, Hugging Face, LangChain, Pinecone (Vector DB), OpenAI API
+- AI/ML: PyTorch, TensorFlow, Scikit-learn, Pandas, Hugging Face Transformers, LangChain, OpenAI API
 
-- Developer Tools & APIs: Git, GitHub Actions, Docker, Kubernetes, GitHub Copilot, Maven, JPA/Hibernate, REST APIs, Postman, Linux, Azure
+- Developer Tools: Git, GitHub Actions, Docker, REST APIs, Postman, Linux, Azure
 
 **Fun facts**:
 - I like skydiving but I'm afraid of heights
