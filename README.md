@@ -16,7 +16,7 @@ I've got a bunch of pinned projects, but my current focus is [LLM Powered Chart 
 **My main tech stack**:
 - Languages: Python, Java, C++, JavaScript, TypeScript, SQL, HTML, CSS
 
-Frameworks: Spring Boot, React.js, Node.js, Express.js, Flask
+- Frameworks: Spring Boot, React.js, Node.js, Express.js, Flask
 
 - Databases: PostgreSQL, MongoDB, Redis
 
