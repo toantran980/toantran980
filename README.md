@@ -1,17 +1,10 @@
 ## Hi there 👋
 
-I'm Toan, an aspiring software engineer with a focus on AI.
+I'm Toan, an aspiring software engineer focused on AI, with experience spanning low-level systems programming, on-device machine learning, and full-stack development: from real-time computer vision mobile apps to Linux IPC subsystems. 
 
-I've built many repositories, though many of them remain private or are still in local development. I turn ideas into shipped projects, fast solutions that solve real problems and help my daily life.
-
-Experienced in low-level systems programming, on-device machine learning, and full-stack development, ranging from real-time computer vision mobile apps to Linux IPC subsystems. 
-
-
-A fast, hands-on contributor eager to grow in an entry-level role, applying this range to new challenges in real hardware and software systems.
-
+I turn ideas into shipped projects that solve real problems, and I'm looking for an entry-level role where I can apply that range to new challenges in real hardware and software systems.
 
 I've got a bunch of pinned projects, but my current focus is [LLM Powered Chart Maker](https://github.com/toantran980/LLM-Chart-Maker).
-
 
 **My main tech stack**:
 - Languages: Python, Java, C++, JavaScript, TypeScript, SQL, HTML, CSS
@@ -27,7 +20,7 @@ I've got a bunch of pinned projects, but my current focus is [LLM Powered Chart 
 - Developer Tools: Git, GitHub Actions, Docker, REST APIs, Postman, Linux, Azure
 
 **Fun facts**:
-- I like skydiving but I'm afraid of heights
-- I love dogs
-- Hobbies: food, movies, music, gym, and building stuff
+- I skydive despite being terrified of heights.
+- I love dogs.
+- Hobbies: food, movies, music, gym, and building stuff.
 
