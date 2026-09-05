@@ -4,7 +4,7 @@ I'm Toan, an aspiring software engineer focused on AI, with experience spanning 
 
 I turn ideas into shipped projects that solve real problems, and I'm looking for an entry-level role where I can apply that range to new challenges in real hardware and software systems.
 
-I've got a bunch of pinned projects, but my current focus is [LLM Powered Chart Maker](https://github.com/toantran980/LLM-Chart-Maker).
+I've got a bunch of pinned projects, but my current focus is [LLM Powered Chart Maker](https://github.com/toantran980/LLM-Chart-Maker) and [Heath Management Agent(https://github.com/toantran980/Health-Tracker-Agent).
 
 **My main tech stack**:
 - Languages: Python, Java, C++, JavaScript, TypeScript, SQL, HTML, CSS
