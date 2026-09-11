@@ -15,7 +15,7 @@ I've got a bunch of pinned projects, but my current focus is [LLM Powered Chart 
 
 - Testing: Pytest, JUnit, Mockito, Selenium
 
-- AI/ML: PyTorch, TensorFlow, Scikit-learn, Pandas, Hugging Face Transformers, LangChain, OpenAI API
+- AI/ML: PyTorch, TensorFlow, Scikit-learn, Pandas, Hugging Face Transformers, LangChain, LangGraph OpenAI API
 
 - Developer Tools: Git, GitHub Actions, Docker, REST APIs, Postman, Linux, Azure
 
