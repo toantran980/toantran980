@@ -20,7 +20,7 @@ I've got a bunch of pinned projects, but my current focus is [LLM Powered Chart 
 - Developer Tools: Git, GitHub Actions, Docker, REST APIs, Postman, Linux, Azure
 
 **Fun facts**:
-- I skydive despite being terrified of heights.
+- I tried skydive once, despite being terrified of heights.
 - I love dogs.
 - Hobbies: food, movies, music, gym, and building stuff.
 
