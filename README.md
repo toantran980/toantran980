@@ -22,5 +22,5 @@ I've implemented a bunch of projects, but my current focus is [Heath Tracker Age
 **Fun facts**:
 - I tried skydive once, despite being terrified of heights.
 - I love dogs and cats.
-- Hobbies: food, movies, music, gym, and building stuff.
+- Hobbies: food, movies, music, gym.
 
