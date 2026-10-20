@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 🙌
 
 I'm Toan, an aspiring software engineer focused on AI, with experience spanning low-level systems programming, on-device machine learning, and full-stack development: from real-time computer vision mobile apps to Linux IPC subsystems. 
 
