@@ -2,7 +2,7 @@
 
 I'm Toan, an aspiring software engineer focused on AI, with experience spanning low-level systems programming, on-device machine learning, and full-stack development: from real-time computer vision mobile apps to Linux IPC subsystems. 
 
-I turn ideas into shipped projects that solve real problems, and I'm looking for an entry-level role where I can apply that range to new challenges in real hardware and software systems.
+I turn ideas into shipped projects that solve real problems, and I'm looking for an entry-level role where I can apply that range to new challenges in real AI integration system.
 
 I've implemented a bunch of projects, but my current focus is [Heath Tracker Agent](https://github.com/toantran980/Health-Tracker-Agent).
 
