@@ -1,6 +1,6 @@
 ## Hi there 🙌
 
-I'm Toan, an aspiring software engineer focused on AI, with experience spanning low-level systems programming, on-device machine learning, and full-stack development: from real-time computer vision mobile apps to Linux IPC subsystems. 
+I'm Toan, an new-grad software engineer focused on AI, with experience building everything from ML models and LLM applications to full-stack and mobile apps. Strong in Python and TypeScript, with projects in on-device ML, LLM agents, and backend services.
 
 I turn ideas into shipped projects that solve real problems, and I'm looking for an entry-level role where I can apply that range to new challenges in real AI integration system.
 
