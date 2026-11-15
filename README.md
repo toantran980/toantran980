@@ -4,7 +4,7 @@ I'm Toan, a new-grad software engineer focused on AI, with experience building e
 
 I turn ideas into shipped projects that solve real problems, and I'm looking for an entry-level role where I can apply that range to new challenges in real AI integration system.
 
-I've implemented a bunch of projects, but my current focus is [Heath Tracker Agent](https://github.com/toantran980/Health-Tracker-Agent).
+I've implemented a bunch of projects, but my current focus is [Heath Tracker Agent](https://github.com/toantran980/my-local-agent).
 
 **My main tech stack**:
 - Languages: Python, Java, C++, JavaScript, TypeScript, SQL, HTML, CSS
