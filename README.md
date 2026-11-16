@@ -17,7 +17,7 @@ I've implemented a bunch of projects, but my current focus is [My Local Agent](h
 
 - AI/ML: PyTorch, TensorFlow, Scikit-learn, Pandas, Hugging Face Transformers, LangChain, LangGraph, OpenAI API
 
-- AI Tools: Codex, Claude, Google Gemini, Github Copilot, Cursor, etc. 
+- AI Tools: Codex, Claude, Github Copilot, Cursor, etc. 
 
 - Developer Tools: Git, GitHub Actions, Docker, REST APIs, Postman, Linux, Azure
 
