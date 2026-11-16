@@ -19,7 +19,7 @@ I've implemented a bunch of projects, but my current focus is [My Local Agent](h
 
 - AI Tools: Codex, Claude, Github Copilot, Cursor, etc. 
 
-- Developer Tools: Git, GitHub Actions, Docker, REST APIs, Postman, Linux, Azure
+- Developer Tools: Git, GitHub Actions, Docker, REST APIs, Bruno, Linux, Azure
 
 **Fun facts**:
 - I tried skydive once, despite being terrified of heights.
